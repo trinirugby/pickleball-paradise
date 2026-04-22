@@ -1,0 +1,10 @@
+{
+  "name": "pickleball-paradise",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve . -l tcp://0.0.0.0:3001"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
